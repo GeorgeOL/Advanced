@@ -21,6 +21,8 @@ class Mage extends Player{
 const Mage1 = new Mage(`Ion`, `fire`);
 const Mage2 = new Mage(`Andra`, `healer`);
 
+//Exerciutiul 2
+
 class Animal{
     constructor(name, type, color) {
         this.name = name;
